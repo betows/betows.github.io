@@ -2000,6 +2000,12 @@ header .logo a {
 	opacity: .9;
 }
 
+.languages{
+
+	color: #FF0077;
+
+}
+
 #services .section-intro {
 	margin-bottom: 1.8rem;
 }
@@ -2038,6 +2044,7 @@ header .logo a {
 }
 .services-list .desc {
 	color: rgba(255, 255, 255, 0.6);
+	text-align: center;
 }
 
 /* pagination */
